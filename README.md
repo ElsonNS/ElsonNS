@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ElsonNS
-- 👀 I’m interested in Web Development   
-- 🌱 I’m currently learning Web Development and cpp programming.  
-- 💞️ I’m looking to collaborate on some web projects
+- 👀 I’m interested in App Development and Machine learning.   
+- 🌱 I’m currently learning app development, web development and data structures
+- 💞️ I’m looking to collaborate on some projects
 - 📫 How to reach me nselson26@gmail.com
 
 <!---
