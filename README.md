@@ -9,7 +9,7 @@
 
 <p align="left"> <a href="https://twitter.com/elson_nag" target="blank"><img src="https://img.shields.io/twitter/follow/elson_nag?logo=twitter&style=for-the-badge" alt="elson_nag" /></a> </p>
 
-- 🌱 I’m currently learning **Data Structures and Algorithms, SpringBoot, Java, React**
+- 🌱 I’m currently learning **Data Structures and Algorithms, Java, React,js, Next.js**
 
 - 👯 I’m looking to collaborate on **Full Stack Projects, Hackathons**
 
